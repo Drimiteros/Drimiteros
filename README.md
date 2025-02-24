@@ -10,6 +10,8 @@ I'm a developer exploring **C++** and many others. I enjoy working on creative a
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=drimiteros&label=Profile%20views&color=0e75b6&style=flat" alt="drimiteros" /> </p>
 
+---
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a>
   
@@ -19,6 +21,8 @@ I'm a developer exploring **C++** and many others. I enjoy working on creative a
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=drimiteros&show_icons=true&theme=dark&locale=en&layout=compact" alt="drimiteros" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=drimiteros&show_icons=true&theme=dark&locale=en" alt="drimiteros" /></p>
-## 🚀 **Connect with Me**  
 
+---
+
+## 🚀 **Connect with Me**  
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/drimiteros/) [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter)](https://x.com/Drimiteros21) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/dimitrios-thanopoulos-383508230/) 
