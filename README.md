@@ -4,7 +4,7 @@ I'm a developer exploring **C++** and many others. I enjoy working on creative a
 
 🔹 **Tech Stack:** C++20, Javascript, HTML/CSS, SFML , VS - VS Code.
 
-🔹 **Current Interests:** Hacking, Game Dev.
+🔹 **Current Interests:** Hacking, Game Dev, Electronics.
 
 🔹 **Fun Fact:** I have ADHD, short attention span and goldfish memory 😅.  
 
