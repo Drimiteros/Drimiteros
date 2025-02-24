@@ -3,8 +3,8 @@
 I'm a developer exploring **C++** and many others. I enjoy working on creative and fun projects.  
 
 🔹 **Tech Stack:** C++20, Javascript, HTML/CSS, SFML , VS - VS Code
-🔹 **Current Interests:** Machine Learning, AMD GPUs, Game Dev  
-🔹 **Fun Fact:** I once debugged a game-breaking bug for hours, only to find a missing `else` statement! 😅  
+🔹 **Current Interests:** Hacking, Game Dev 
+🔹 **Fun Fact:** I have ADHD, short attention span and goldfish memory 😅  
 
 ## 📌 **Projects & Links**  
 
