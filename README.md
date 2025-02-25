@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm a developer exploring **C++** and many others. I enjoy working on creative and fun projects.  
+I'm a college student, about to graduate, exploring **C++**. I enjoy working on creative and fun projects.  
 
 🔹 📫 How to reach me **dimthan2@gmail.com**
 
