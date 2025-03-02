@@ -2,8 +2,6 @@
 
 I'm a college student, about to graduate, exploring **C++**. I enjoy working on creative and fun projects.  
 
-🔹 📫 How to reach me **dimthan2@gmail.com**
-
 🔹 **Current Interests:** Hacking, Game Dev, Electronics.
 
 🔹 **Fun Fact:** I have ADHD, short attention span and goldfish memory 😅.  
