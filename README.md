@@ -2,10 +2,6 @@
 
 I'm a college student, about to graduate, exploring **C++**. I enjoy working on creative and fun projects.  
 
-🔹 **Current Interests:** Hacking, Game Dev, Electronics.
-
-🔹 **Fun Fact:** I have ADHD, short attention span and goldfish memory 😅.  
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=drimiteros&label=Profile%20views&color=0e75b6&style=flat" alt="drimiteros" /> </p>
 
 ---
