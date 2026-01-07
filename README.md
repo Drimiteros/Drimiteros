@@ -2,7 +2,7 @@
 
 I'm a computer science college graduate, exploring **C++**. I enjoy working on creative and fun projects.  
 
-<p align="left"> ![Profile Views](https://img.shields.io/badge/Profile%20views-??-blue) </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=drimiteros&label=Profile%20views" /> </p>
 
 ---
 
